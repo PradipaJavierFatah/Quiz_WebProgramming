@@ -1,0 +1,52 @@
+GENRE TEXT
+['name' => 'romance'],
+['name' => 'action'],
+['name' => 'cartoon'],		
+
+
+
+
+MOVIE TEXT
+[
+    'title'=> 'Doraemon',
+    'photo'=> 'doraemon.jpg',
+    'description'=>'Doraemon adalah serial film animasi Jepang yang menceritakan tentang petualangan robot kucing bernama Doraemon dan seorang anak laki-laki bernama Nobita Nobi. Doraemon datang dari abad ke-22 untuk membantu Nobita mencapai mimpinya dan menjalani kehidupan yang lebih baik.',
+    'genre_id'=>3,
+            
+ ],
+ [
+     'title'=> 'Bluey',
+     'photo'=> 'bluey.jpg',
+     'description'=>'Bluey adalah serial animasi anak-anak Australia yang menceritakan tentang petualangan seekor anjing Blue Heeler bernama Bluey dan keluarganya. Bluey adalah anak anjing yang energik dan penuh rasa ingin tahu, dan dia senang bermain dengan ayah, ibu, dan adik perempuannya, Bingo.',
+     'genre_id'=>3,
+      
+ ],
+ [
+     'title'=> 'Elemental',
+     'photo'=> 'elemental.png',
+     'description'=>'
+     Elemental adalah film animasi Pixar yang dirilis pada tahun 2023. Film ini bercerita tentang Ember, seorang wanita api yang temperamental, dan Wade, seorang pria air yang santai. Mereka bertemu di Element City, sebuah kota yang dihuni oleh elemen-elemen air, api, tanah, dan udara.',
+     'genre_id'=>3,
+     
+ ],
+ [
+     'title'=> 'Spiderman',
+     'photo'=> 'spiderman.jpg',
+     'description'=>'description spiderman movie',
+     'genre_id'=>2,
+     
+ ],
+ [
+     'title'=> 'Avatar',
+     'photo'=> 'avatar.jpg',
+     'description'=>'Berpusat pada Aang, seorang anak Nomad Udara berusia 12 tahun yang merupakan Avatar terbaru, roh planet yang bereinkarnasi menjadi manusia yang menguasai keempat elemen: air, api, tanah, dan udara. Aang bangun dari tidur selama seabad untuk menemukan dunia yang dirusak oleh perang Negara Api.',
+     'genre_id'=>2,
+     
+ ],
+ [
+     'title'=> 'Tetanic',
+     'photo'=> 'tetanic.jpg',
+     'description'=>' Dimulai pada tahun 1996, di mana seorang pemburu harta karun bernama Brock Lovett dan timnya mencari kalung "Heart of the Ocean" di bangkai kapal Titanic. Cerita kemudian beralih ke tahun 1912, menceritakan kisah cinta antara Jack Dawson, seorang seniman miskin, dan Rose DeWitt Bukater, seorang wanita kaya dari kelas atas, yang bertemu di atas kapal Titanic yang terkenal.',
+     'genre_id'=>1,
+     
+ ],
